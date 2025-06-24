@@ -89,6 +89,7 @@ function Login() {
                         Ainda não tem uma conta?{' '}
                         <Link to="/cadastro" className="text-indigo-800 hover:underline">
                     Cadastre-se
+                        </Link>
                     </p>
                 </form>
                 <div className="fundoLogin hidden lg:block"></div>
