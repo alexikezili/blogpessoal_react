@@ -79,7 +79,7 @@ function Login() {
                                           visible={true}
                                         />
                                       ) : (
-                                        <span>"Entrar"</span>
+                                        <span>Entrar</span>
                                       )}
                     </button>
 
